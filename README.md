@@ -1,6 +1,6 @@
 # Simple ATM Controller
 
-You can clone this project with https://github.com/asemdi/simple_atm_controller_oa.git
+You can clone this project with **git clone https://github.com/asemdi/simple_atm_controller_oa.git**
 
 ### Details
 * atm.py - contains the main ContainerATM class and helper Bank class (though out of the scope of the task, I decided to implement it for easier testing)
